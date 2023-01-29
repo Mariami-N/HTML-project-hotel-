@@ -111,7 +111,7 @@ footer{
     height: 51px;
     background-color: #5863F8;
 }
-section{
+.white{
     position: relative;
     width: 1366px;
     height: 593px;
@@ -155,7 +155,7 @@ h5{
     width: 445px;
     height: 84px;
 }
-div{
+.foto1{
     position: absolute;
     top: 82px;
     left: 691px;
@@ -173,6 +173,33 @@ div{
     width: 536px;
     height: 260px;
 }
+.foto2{
+    position: absolute;
+    top: 283px;
+    left:691px ;
+/* width: 536px;
+height: 260px; */
+}
+.foto2 img{
+    width: 536px;
+height: 260px;
+}
+.read{
+    position: absolute;
+    top: 416px;
+    left: 129px;
+    background-color: #5863F8;
+    width: 184px;
+    height: 50px;
+
+}
+.black{
+    position: relative;
+    width: 1366px;
+    height: 304px;
+    background-color: #121212;
+}
+
 
 
     
